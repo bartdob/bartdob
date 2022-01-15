@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bart
 - 👀 I’m interested in Python and coding general
-- 🌱 I’m currently learning Python Django
+- 🌱 I’m currently learning React.js and Vue.js
 - 💞️ I’m looking to collaborate on Python project
 - 📫 How to reach me dobry1@protonmail.com
 
