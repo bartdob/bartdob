@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A passionate frontend, backend from Poland</h3>
+<h3 align="center">A passionate frontend, backend form Poland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bartdob&label=Profile%20views&color=0e75b6&style=flat" alt="bartdob" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartdob&label=Profile%20views&color=0e75b6&style=flat" alt="bartdob" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bartdob" alt="bartdob" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bartdob" alt="bartdob" /></a> </p>
 
 - 🌱 I’m currently learning **React, Vue.js**
 
