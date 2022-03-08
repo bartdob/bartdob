@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A passionate frontend, backend form Poland</h3>
+<h3 align="center">A passionate frontend, backend from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartdob&label=Profile%20views&color=0e75b6&style=flat" alt="bartdob" /> </p>
 
