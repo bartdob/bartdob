@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 👨‍💻 All of my projects are available at [www.dobrosielski.online.pl](https://www.dobrosielski.online.pl)
+- 👨‍💻 All of my projects are available at [www.dobrosielski.online](https://www.dobrosielski.online)
 
 - 📫 How to reach me **bdobrosielski@edu.cdv.pl**
 
