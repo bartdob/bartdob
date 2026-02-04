@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning **React, Vue.js**
 
 - 👯 I’m looking to collaborate on **Python**
-
-#- 👨‍💻 All of my projects are available at [www.dobrosielski.online](https://www.dobrosielski.online)
-
+<!--
+- 👨‍💻 All of my projects are available at [www.dobrosielski.online](https://www.dobrosielski.online)
+-->
 - 📫 How to reach me **bartosz.good@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bartosz-d-25b72a9a/](https://www.linkedin.com/in/bartosz-d-25b72a9a/)
